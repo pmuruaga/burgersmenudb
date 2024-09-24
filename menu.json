@@ -1,0 +1,84 @@
+{
+  "menu": {
+    "products": {
+      "product_1": {
+        "id": "1",
+        "name": "Big Burger",
+        "description": "Una hamburguesa con doble carne de res, queso cheddar, lechuga, tomate, cebolla, y nuestra salsa especial.",
+        "price": 8.99,
+        "characteristics": {
+          "size": "grande",
+          "calories": 850,
+          "ingredients": ["carne de res", "queso cheddar", "lechuga", "tomate", "cebolla", "salsa especial"],
+          "spicy": false,
+          "vegetarian": false
+        }
+      },
+      "product_2": {
+        "id": "2",
+        "name": "Cheeseburger Deluxe",
+        "description": "Hamburguesa clásica con una rebanada extra de queso cheddar, pepinillos, y salsa de mostaza.",
+        "price": 6.50,
+        "characteristics": {
+          "size": "mediana",
+          "calories": 600,
+          "ingredients": ["carne de res", "queso cheddar", "pepinillos", "mostaza", "pan de sésamo"],
+          "spicy": false,
+          "vegetarian": false
+        }
+      },
+      "product_3": {
+        "id": "3",
+        "name": "Chicken McNuggets",
+        "description": "Nuggets de pollo crujientes y jugosos, servidos con una selección de salsas.",
+        "price": 4.99,
+        "characteristics": {
+          "size": "10 piezas",
+          "calories": 420,
+          "ingredients": ["pollo", "harina de trigo", "aceite vegetal", "especias"],
+          "spicy": false,
+          "vegetarian": false
+        }
+      },
+      "product_4": {
+        "id": "4",
+        "name": "Veggie Burger",
+        "description": "Hamburguesa hecha con una mezcla de vegetales frescos, queso, y mayonesa vegana.",
+        "price": 7.50,
+        "characteristics": {
+          "size": "mediana",
+          "calories": 500,
+          "ingredients": ["patty de vegetales", "queso vegano", "lechuga", "tomate", "mayonesa vegana"],
+          "spicy": false,
+          "vegetarian": true
+        }
+      },
+      "product_5": {
+        "id": "5",
+        "name": "Spicy Chicken Sandwich",
+        "description": "Sándwich de pollo empanizado y frito con un toque picante, acompañado de lechuga y mayonesa.",
+        "price": 6.99,
+        "characteristics": {
+          "size": "mediana",
+          "calories": 700,
+          "ingredients": ["pollo empanizado", "pan", "lechuga", "mayonesa picante"],
+          "spicy": true,
+          "vegetarian": false
+        }
+      },
+      "product_6": {
+        "id": "6",
+        "name": "BBQ Bacon Burger",
+        "description": "Hamburguesa con carne de res, tiras de tocino ahumado, queso cheddar, y salsa BBQ.",
+        "price": 9.99,
+        "characteristics": {
+          "size": "grande",
+          "calories": 950,
+          "ingredients": ["carne de res", "tocino", "queso cheddar", "salsa BBQ", "cebolla caramelizada"],
+          "spicy": false,
+          "vegetarian": false
+        }
+      }
+    }
+  }
+}
